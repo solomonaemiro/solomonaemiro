@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @solomonaemiro a computer science student from Africa, Ethiopia
-- 👀 I’m interested in Mobile app development, and programming in general
-- 🌱 I’m currently learning android development with kotlin
-- 💞️ I’m looking to collaborate on anything I can or can learn to do
+- 👋 Hi, I’m @solomonaemiro,
+IT Support | IT Technician | Service Desk | Desktop Support | Network Support
+I'm a Computer Science graduate building practical, hands-on experience in IT support, troubleshooting, networking, systems administration, and help desk operations.
+I enjoy solving technical problems, supporting users, and building realistic IT environments to strengthen my practical skills.
+Currently focused on developing my career in IT Support and Technical Support, with an interest in Service Desk, Desktop Support, Network Support, and Systems Administration roles.
 - Solomon Aemiro 
   
 
